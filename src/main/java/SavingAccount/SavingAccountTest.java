@@ -9,7 +9,7 @@ public class SavingAccountTest {
 
 
         SavingAccount.modifyInterestRate(5);
-        
+
         System.out.println(saver1.calculateMonthlyInterest());
         System.out.println(saver2.calculateMonthlyInterest());
 
