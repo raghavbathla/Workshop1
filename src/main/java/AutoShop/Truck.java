@@ -21,6 +21,4 @@ else
     return super.getSalePrice()-dis;
 }
     }
-
-
 }
